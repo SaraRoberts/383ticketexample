@@ -1,3 +1,5 @@
+I wanted to keep my code from my 383 project as reference, or to look back on years from now :)
+
 AZURE LINK:
 https://sp18-pf-g07.azurewebsites.net/
 
